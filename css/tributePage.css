@@ -1,0 +1,28 @@
+body{
+  background-color: gray !important;
+  margin:60px;
+  display: flex;
+
+}
+.jumbotron{
+  background-color:black !important; 
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+img{
+  max-width:100%;
+  width:auto;
+  height:auto;
+}
+
+.webmargin{
+  margin-top:40px;
+}
+
+.webalign{
+  text-align:left;
+}
